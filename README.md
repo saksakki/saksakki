@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @saksakki
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Business & Industrial Engineering at Dankook University
+- 🌱 Business & Industrial Engineering at Dankook University
 - 📫 How to reach me minichocobar123@gmail.com, <a href="https://www.instagram.com/hyun__0807/">Instagram</a>
 
 <!---
